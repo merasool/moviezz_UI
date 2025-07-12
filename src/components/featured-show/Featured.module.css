@@ -1,0 +1,32 @@
+.featuredSection {
+  padding: 30px 40px;
+  background-color: #000; /* Optional background */
+  color: white;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.Featuredshow {
+  display: flex;
+  justify-content: flex-start; /* aligns posters to the left */
+  align-items: center;
+  gap: 20px; /* space between posters */
+  flex-wrap: wrap; /* allow responsiveness */
+}
+
+.Featuredshow img {
+  width: 180px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease;
+}
+
+.Featuredshow img:hover {
+  transform: scale(1.05);
+}

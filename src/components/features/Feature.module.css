@@ -1,0 +1,13 @@
+.Feature{
+    width: 100%;
+    background-color:black;
+    padding: 8px;
+    color: white;
+}
+.shows{
+    width: 100%;
+    background-color: rgb(3, 3, 3);
+    padding: 25px 114px;
+    display: flex;
+    
+}
