@@ -74,7 +74,7 @@ src/
 
 ## 🌐 Live Demo
 
-Visit the live application: [Moviezz UI Demo](https://your-deployment-url.com)
+Visit the live application: [Moviezz UI Demo](moviezz-ui.vercel.app)
 
 ## 🤝 Contributing
 
