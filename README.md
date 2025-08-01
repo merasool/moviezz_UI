@@ -94,10 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Firebase](https://firebase.google.com/) for authentication
 - [React Icons](https://react-icons.github.io/react-icons/) for beautiful icons
 
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to reach out!
-
----
-
-Made with ❤️ by [Your Name]
